@@ -1,7 +1,10 @@
-Hello, my name is Trevor Frame. 
+Hello, my name is Trevor Frame.
 
 I currently reside in Fresno, California. I am married and 2 fur babies. 
 
-I have worked in banking for over 5 years now. I hope to someday work in cyber security or artificial intelligence.
+I have worked in banking for over 5 years now in various roles. I worked in the online and mobile banking 
+department for a credit union where I was able to learn some HTML, CSS, Javascript, and Microsoft SQL. 
+
+I hope to someday work in cyber security or artificial intelligence.
 
 I'm very excited about this class!
