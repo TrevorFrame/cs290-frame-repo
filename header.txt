@@ -1,0 +1,8 @@
+/****************************************************
+ *  Author: Trevor Frame
+ *  Date: 09/23/2018 
+ *
+ *  Description: This will be a template header file
+ *               for programs throughout this course.  
+ *
+*****************************************************
